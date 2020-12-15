@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "887920883668",
+    "firebase_url": "https://fir-videostreaming-4c789.firebaseio.com",
+    "project_id": "fir-videostreaming-4c789",
+    "storage_bucket": "fir-videostreaming-4c789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887920883668:android:a25d8f5c0025886da24841",
+        "android_client_info": {
+          "package_name": "com.example.firebase_video_streaming_app_advanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887920883668-iogp9qs4adkcj6sn3nvm7olnt3795e44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_video_streaming_app_advanced",
+            "certificate_hash": "c2032b9613c34e4de4d052f7eaa36a2e4148aa74"
+          }
+        },
+        {
+          "client_id": "887920883668-lchqc8ies8ir1kgellohmtqs5p71qsd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNC5c4XCOdPOx08Q9YirP1Tg3kqVjRTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887920883668-lchqc8ies8ir1kgellohmtqs5p71qsd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887920883668:android:e01e77926c5a9513a24841",
+        "android_client_info": {
+          "package_name": "com.example.streamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887920883668-jhu193ovb8khbsbk83h6thto1gm775jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streamer",
+            "certificate_hash": "c2032b9613c34e4de4d052f7eaa36a2e4148aa74"
+          }
+        },
+        {
+          "client_id": "887920883668-lchqc8ies8ir1kgellohmtqs5p71qsd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNC5c4XCOdPOx08Q9YirP1Tg3kqVjRTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887920883668-lchqc8ies8ir1kgellohmtqs5p71qsd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
