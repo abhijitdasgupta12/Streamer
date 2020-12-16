@@ -1,4 +1,4 @@
 package com.example.streamer;
 
-public class test1 {
+public class sample_class {
 }
