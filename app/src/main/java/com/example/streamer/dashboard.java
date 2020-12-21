@@ -159,12 +159,16 @@ public class dashboard extends AppCompatActivity
         {
             case R.id.cloud_upload:
                 startActivity(new Intent(getApplicationContext(),addVideo.class));
+                finish();
                 break;
             case R.id.user_profile:
                 startActivity(new Intent(getApplicationContext(),user_profile.class));
+                finish();
                 break;
             case R.id.about:
                 startActivity(new Intent(getApplicationContext(),information.class));
+                finish();
+
                 break;
             case R.id.logout:
                 FirebaseAuth.getInstance().signOut();
